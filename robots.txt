@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tkpao.github.io/SQb/sitemap.SQb.gz
