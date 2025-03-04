@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tkpao.csgad.com/vMA/sitemap.xml.gz
